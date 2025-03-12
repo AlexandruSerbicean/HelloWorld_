@@ -7,7 +7,8 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, GitHub!");
-            Console.WriteLine("Hi, second commit")
+            Console.WriteLine("Hi, second commit");
         }
     }
+    
 }
